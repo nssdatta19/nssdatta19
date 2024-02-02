@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/nssdatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nssdatta" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/srisaidattan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srisaidattan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sri saidatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sri saidatta" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/nssdatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nssdatta" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/dnTK2AFKBm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/dnTK2AFKBm" height="30" width="40" /></a>
 </p>
 
